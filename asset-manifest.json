@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dynamicPage/static/css/main.e255f005.chunk.css",
+    "main.js": "/dynamicPage/static/js/main.1d3614bf.chunk.js",
+    "main.js.map": "/dynamicPage/static/js/main.1d3614bf.chunk.js.map",
+    "runtime~main.js": "/dynamicPage/static/js/runtime~main.46bd4aed.js",
+    "runtime~main.js.map": "/dynamicPage/static/js/runtime~main.46bd4aed.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/dynamicPage/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/dynamicPage/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/dynamicPage/index.html",
+    "precache-manifest.3f9e3af965c597156682c393461fe5a0.js": "/dynamicPage/precache-manifest.3f9e3af965c597156682c393461fe5a0.js",
+    "service-worker.js": "/dynamicPage/service-worker.js",
+    "static/css/main.e255f005.chunk.css.map": "/dynamicPage/static/css/main.e255f005.chunk.css.map",
+    "static/media/App.css": "/dynamicPage/static/media/night.809e4e0a.jpg"
+  }
+}
